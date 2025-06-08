@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# My
+Quiz-App/ConvexStart.bat
+Quiz-App/ExpoClear.bat
+Quiz-App/ExpoStart.bat
+Quiz-App/FullRefresh.bat
